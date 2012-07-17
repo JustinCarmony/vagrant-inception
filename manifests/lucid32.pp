@@ -1,0 +1,3 @@
+class inception {
+  exec { '
+}
